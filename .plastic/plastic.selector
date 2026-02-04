@@ -1,4 +1,0 @@
-repository "Exer4v2/Exer4v2@33263532912569@cloud"
-  path "/"
-    br "/main"
-    co "/main"
